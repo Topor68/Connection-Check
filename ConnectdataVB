@@ -1,5 +1,5 @@
-// user the framework 4.5.2
-//https://downloads.mysql.com/archives/c-net/ download the target framework form mysql.data(product version 6.10.9)
+// use the framework 4.5.2
+//download the target framework form mysql.data using this link https://downloads.mysql.com/archives/c-net/ (product version 6.10.9)
 
 Imports MySql.Data.MySqlClient
 
