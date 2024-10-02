@@ -6,8 +6,7 @@ Imports MySql.Data.MySqlClient
 Module Module1
 
     Sub Main()
-            Dim connstring As String = "Server=68.66.224.50;userid=tsbcentr_ShippingCalc;password=Toper123!;database=tsbcentr_TSBLivingShippingCalculator"
-
+          
         Dim conn As MySqlConnection = Nothing
         Try
             conn = New MySqlConnection(connstring)
